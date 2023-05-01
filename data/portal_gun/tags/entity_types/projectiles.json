@@ -1,0 +1,21 @@
+{
+    "replace": true,
+    "values": [
+        "egg",
+        "arrow",
+        "snowball",
+        "fireball",
+        "dragon_fireball",
+        "small_fireball",
+        "ender_pearl",
+        "eye_of_ender",
+        "potion",
+        "experience_bottle",
+        "wither_skull",
+        "firework_rocket",
+        "spectral_arrow",
+        "shulker_bullet",
+        "dragon_fireball",
+        "llama_spit"
+    ]
+}

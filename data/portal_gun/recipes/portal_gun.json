@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "  #",
+        "IB ",
+        "II "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:orange_stained_glass"
+        },
+        "I": {
+            "item": "minecraft:iron_block"
+        },
+        "B": {
+            "item": "minecraft:blue_stained_glass"
+        }
+    },
+    "result": {
+        "item": "minecraft:knowledge_book",
+        "count": 1
+    }
+}

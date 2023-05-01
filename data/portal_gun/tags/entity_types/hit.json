@@ -1,0 +1,7 @@
+{
+    "replace": true,
+    "values": [
+        "#portal_gun:mobs",
+        "#portal_gun:projectiles"
+    ]
+}
