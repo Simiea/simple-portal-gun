@@ -1,10 +1,10 @@
 <div align="center">
 
 ## Simple Portal Gun
-[![Modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg)](https://modrinth.com/datapack/hurl)
+[![Modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg)](https://modrinth.com/datapack/simple-portal-gun)
 [![Planet Minecraft](https://cdn.jsdelivr.net/gh/Simiea/simiae-badges@main/assets/cozy/available/pmc_vector.svg
-)](http://modrinth.com/mod/resourceful-lib)
-[![Github](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3.1.0/assets/cozy/available/github_vector.svg)](https://github.com/Simiea/hurling)
+)](https://www.planetminecraft.com/data-pack/simple-portal-gun-spg/)
+[![Github](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3.1.0/assets/cozy/available/github_vector.svg)](https://github.com/Simiea/simple-portal-gun)
 
 </div>
 
